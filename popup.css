@@ -14,7 +14,7 @@ body {
   }
   
   input[type="text"] {
-    width: 100%;
+    width: 95%;
     margin-bottom: 10px;
     padding: 5px;
   }
@@ -44,4 +44,20 @@ body {
     cursor: pointer;
     float: right;
   }
+  .deleteIcon {
+    display: inline-block;
+    margin-left: 1rem;
+  }
+  .deleteIcon i {
+    color: red;
+  }
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
   
+  .task-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
