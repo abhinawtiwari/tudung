@@ -3,8 +3,9 @@
 This is a simple Chrome extension that allows you to create and manage a todo list directly within your browser. It provides a convenient way to keep track of tasks and stay organized while browsing the web.
 
 ## Installation
+To install the Chrome extension from the Chrome Web Store visit https://chrome.google.com/webstore/detail/tudung/gmipdfkpdeahbamlhghihdoaegpcdknj
 
-To install the Chrome extension, follow these steps:
+To install the Chrome extension using its source code, follow these steps:
 
 1. Clone this repository to your local machine or download the ZIP file.
 2. Open Google Chrome and navigate to `chrome://extensions`.
